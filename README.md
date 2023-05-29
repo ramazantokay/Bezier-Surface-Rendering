@@ -65,14 +65,14 @@ make all
 3. Use the controls to manipulate the rendered surfaces. 
 
 The keyboard controls are as follows:
-  * **1** Wireframe Mode
-  * **2** Solid Mode
-  * **W** Increase the sample size by 2
-  * **S** Decrease the sample size by 2
-  * **R** Increase the rotation angle by 10 (Rotate the surface around the horizontal axis)
-  * **F** Decrease the rotation angle by 10 (Rotate the surface around the horizontal axis)
-  * **E** Extend the X and Y coordinates of whole surface by 0.1
-  * **D** Shrink the X and Y coordinates of whole surface by 0.1
+  * <kbd>1</kbd> Wireframe Mode
+  * <kbd>2</kbd> Solid Mode
+  * <kbd>W</kbd> Increase the sample size by 2
+  * <kbd>S</kbd> Decrease the sample size by 2
+  * <kbd>R</kbd> Increase the rotation angle by 10 (Rotate the surface around the horizontal axis)
+  * <kbd>F</kbd> Decrease the rotation angle by 10 (Rotate the surface around the horizontal axis)
+  * <kbd>E</kbd> Extend the X and Y coordinates of whole surface by 0.1
+  * <kbd>D</kbd> Shrink the X and Y coordinates of whole surface by 0.1
 
 4. Enjoy exploring and visualizing Bezier surfaces!
 
